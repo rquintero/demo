@@ -1,2 +1,2 @@
 # demo
-Spring Boot app with Mockito and SprinBootTest jUnit tests.
+Spring Boot app with Mockito and SpringBootTest jUnit tests.
