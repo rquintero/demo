@@ -1,6 +1,6 @@
 # Code Challenge: Capital Gains		
 ## Architecture Design
-![Screenshot](arch-capital-gains-enus.jpg)
+![Screenshot]arch-capital-gains-enus.jpg
  
 Domain
 
