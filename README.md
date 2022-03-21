@@ -1,6 +1,6 @@
 # Code Challenge: Capital Gains		
 ## Architecture Design
-![Architecture](arch-capital-gains-enus.jpg?raw=true "Architecture")
+![Architecture](spec-capital-gains-enus.jpg?raw=true "Architecture")
 
  
 ### Domain
